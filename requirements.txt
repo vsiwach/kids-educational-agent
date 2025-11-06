@@ -1,0 +1,7 @@
+# Core dependencies
+openai>=1.0.0
+
+# NEST adapter (install from local path or pip)
+# If NEST is installed as package, this line can be removed
+# Otherwise, ensure NEST is in Python path
+
